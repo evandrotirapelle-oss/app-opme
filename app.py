@@ -15,8 +15,8 @@ st.set_page_config(
 # Equipe da Divisão de Auditoria Hospitalar
 MEMBROS_EQUIPE = [
     {"nome": "Julia Veiga Ramalho", "cargo": "Assistente Administrativo – DAH/FUNEAS"},
-    {"nome": "Emily Gomes Trevisan", "cargo": "Chefe de Setor – DAH/FUNEAS"},
-    {"nome": "Michele Prestes Jientara", "cargo": "Assistente Administrativo – DAH/FUNEAS"},
+    {"nome": "Emily Trevizan", "cargo": "Chefe de Setor – DAH/FUNEAS"},
+    {"nome": "Michelle Medeiros", "cargo": "Assistente Administrativo – DAH/FUNEAS"},
     {"nome": "Soraya Pacheco dos Santos Lima", "cargo": "Assistente Administrativo – DAH/FUNEAS"},
     {"nome": "Outro (Digitar manualmente)", "cargo": "DAH/FUNEAS"}
 ]
